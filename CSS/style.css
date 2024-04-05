@@ -1,0 +1,74 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    font-family:  "Inria Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    
+}
+
+h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+.titolo{
+    margin: auto;
+    text-align: left;
+    background-color: #AC6C77;
+}
+
+.titolo h1{
+    font-size: 92px;
+}
+
+.primo_testo{
+    margin-left: auto;
+    text-align: left;
+    padding: 50px;
+}
+
+.prime_immagini{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 50px;
+
+}
+
+
+.seconda_slide{
+    display: flex;
+}
+
+.secondo_testo{
+    margin-left: auto;
+    text-align: left;
+    padding: 50px;
+}
+
+.seconda_immagine{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 50px;
+}
+
+.terza_slide{
+    display: flex;
+}
+
+.terzo_testo{
+    margin-left: auto;
+    text-align: left;
+    padding: 50px;
+}
+
+.terze_immagini{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 50px;
+}
+
+.quarta_slide{
+    display: flex;
+}
