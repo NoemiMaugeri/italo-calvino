@@ -40,23 +40,23 @@ h1 {
 .immagine_1{
     width: 283.17px;
   height: 449.43px;
-  background: url("img/i.png");
+ 
  
 }
 .immagine_2{
     width: 283.17px;
   height: 449.43px;
-  background: url("img/rosa.png");
+ 
 }
 .immagine_3{
     width: 283.17px;
   height: 449.43px;
-  background: url("img/r.png");
+  
 }
 .immagine_4{
     width: 283.17px;
   height: 449.43px;
-  background: url("img/y.png");
+ 
 }
 .primo_testo p{
     text-align: left;
